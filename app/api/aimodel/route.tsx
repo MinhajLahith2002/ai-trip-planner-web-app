@@ -65,8 +65,6 @@ Only ask questions about the following details in order, and wait for the user's
 3.Group size (Solo, Couple, Family, Friends)
 4.Budget (Low, Medium, High)
 5.Trip duration (number of days)
-6.Travel interests (e.g., adventure, sightseeing, cultural, food, nightlife, relaxation)
-7.Special requirements or preferences (if any)
 Do not ask multiple questions at once, and never ask irrelevant questions.
 If any answer is missing or unclear, politely ask the user to clarify before proceeding.
 Always maintain a conversational, interactive style while asking questions.
@@ -77,6 +75,8 @@ Once all required information is collected, generate and return a strict JSON re
 "ui": "budget/groupSize/tripDuration/final"
 }
 `
+// 6.Travel interests (e.g., adventure, sightseeing, cultural, food, nightlife, relaxation)
+// 7.Special requirements or preferences (if any)
 
 const FINAL_PROMPT = `Generate Travel Plan with give details, give me Hotels options list with HotelName, 
 Hotel address, Price, hotel image url, geo coordinates, rating, descriptions and suggest itinerary with placeName, Place Details, Place Image Url, 
