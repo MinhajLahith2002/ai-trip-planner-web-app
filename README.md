@@ -38,3 +38,48 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # ai-trip-planner-web-app
 >>>>>>> 2efdaf6e53a3b9866388f0057ccc6faa73b763bd
+
+# 🌍 AI Trip Planner Web App ✈️
+
+An AI-powered **Full Stack Trip Planner** built with **Next.js, React, TypeScript, Convex, Clerk, Arcjet, Mapbox, and Google Places API**.  
+This project generates personalized travel itineraries using **OpenAI**, displays them on interactive maps, and provides secure authentication and rate-limiting for SaaS-style deployment.
+
+---
+
+## 🚀 Live Demo
+👉 [AI Trip Planner Web App](https://ai-trip-planner-web-app-pi.vercel.app/)
+
+## 📂 Repository
+👉 [GitHub Repo](https://github.com/MinhajLahith2002/ai-trip-planner-web-app)
+
+---
+
+## 🔹 Features
+- ✅ **AI-generated itineraries** using OpenAI
+- ✅ **Interactive maps** with Mapbox & Google Places API
+- ✅ **Authentication & user management** powered by Clerk
+- ✅ **Secure rate limiting** with Arcjet
+- ✅ **Convex database** for trip storage & retrieval
+- ✅ **Modern UI/UX** with TailwindCSS, Radix UI, and Lucide/Tabler icons
+- ✅ **Production-ready deployment** on Vercel
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Next.js 16, React 19, TypeScript, TailwindCSS
+- **Backend:** Convex, Arcjet
+- **Authentication:** Clerk
+- **AI Integration:** OpenAI API
+- **Maps & Location:** Mapbox, Google Places API
+- **Deployment:** Vercel
+
+---
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MinhajLahith2002/ai-trip-planner-web-app.git
+cd ai-trip-planner-web-app
+
