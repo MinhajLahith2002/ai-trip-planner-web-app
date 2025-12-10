@@ -1,6 +1,7 @@
 'use client'
 
 import { SignInButton, UserButton, useUser } from '@clerk/nextjs'
+import { Button } from "@/components/ui/button"
 import Image from 'next/image'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
@@ -28,14 +29,14 @@ function Header() {
   console.log(path);
 
   return (
-    <div className='flex justify-between items-center p-4'>
+    <div className='flex justify-between items-center p-4 shadow py-6'>
       {/* Logo */}
       <div className='flex gap-2 items-center'>
         <Image src={'/logo.svg'} alt='logo' width={30} height={30} />
         <h2 className='font-bold text-2xl'>AI Trip Planner</h2>
       </div>
       {/* Menu Options */}
-      <div className='felx gap-5 items-center'>
+      <div className='flex gap-8 items-center'>
         {menuOptions.map((menu, index) => (
           <Link href={menu.path}>
             <h2 className='text-lg hover:scale-105 transition-all hover:text-primary'>{menu.name}</h2>

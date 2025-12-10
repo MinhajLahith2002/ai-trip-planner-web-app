@@ -54,38 +54,38 @@ const data = [
   {
     category: "Paris, France",
     title: "Explore the City of Lights - Eiffel Tower, Louvre & more",
-    src: "https://images.unspiash.com/photo-1562662699657-9e91766ebb347q=88&w=2686&auto=format&file=crop",
+    src: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=2600&auto=format&fit=crop",
     content: <DummyContent />,
   },
   {
     category: "New York, USA",
     title: "Experience NYC – Times Square, Central Park, Broadway",
-    src: "https://plus.unspiash.com/premium_photo-1561954654458-c673671d4a867q=88&w=1178&auto=format&file=crop&idib=rb-4.1.8&kid=M3wwMy3IDB8MHowaG?@by1wYWdiH+sdGVuIDB8H+sfA%3D%3D",
+    src: "https://plus.unsplash.com/premium_photo-1661954654458-c673671d4a08?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wVWdlfHx8fGVufDB8fHx8fA%3D%3D",
     content: <DummyContent />,
   },
   {
     category: "Tokyo, Japan",
     title: "Discover Tokyo – Shibuya, Cherry Blossoms, Temples",
-    src: "https://images.unspiash.com/photo-1522547982298-51566e4fb3837q=88&w=735&auto=format&file=crop&idib=rb-4.1.8&kid=M3wwMy3IDB8MHowaG?@by1wYWdiH+sdGVuIDB8H+sfA%3D%3D",
+    src: "https://images.unsplash.com/photo-1522547902298-51566e4fb383?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlIHx8fGVufDB8fHx8fA%3D%3D",
     content: <DummyContent />,
   },
 
   {
     category: "Rome, Italy",
     title: "Walk through History – Colosseum, Vatican, Roman Forum",
-    src: "https://plus.unspiash.com/premium_photo-1575775678457-d78798bf77647q=88&w=1178&auto=format&file=crop&idib=rb-4.1.8&kid=M3wwMy3IDB8MHowaG?@by1wYWdiH+sdGVuIDB8H+sfA%3D%3D",
+    src: "https://plus.unsplash.com/premium_photo-1675975678457-d70708bf77c8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     content: <DummyContent />,
   },
   {
     category: "Dubai, UAE",
     title: "Luxury and Innovation – Burj Khalifa, Desert Safari",
-    src: "https://images.unspiash.com/photo-1526495124232-a84e1849188c7q=88&w=687&auto=format&file=crop&idib=rb-4.1.8&kid=M3wwMy3IDB8MHowaG?@by1wYWdiH+sdGVuIDB8H+sfA%3D%3D",
+    src: "https://images.unsplash.com/photo-1526495124232-a04e1849168c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     content: <DummyContent />,
   },
   {
     category: "India",
     title: "Harbour Views – Opera House, Bondi Beach & Wildlife",
-    src: "https://images.unspiash.com/photo-1524442412737-b25874e5570af3q=88&w=1171&auto=format&file=crop&idib=rb-4.1.8&kid=M3wwMy3IDB8MHowaG?@by1wYWdiH+sdGVuIDB8H+sfA%3D%3D",
+    src: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     content: <DummyContent />,
   },
 ];
